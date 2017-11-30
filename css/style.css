@@ -2087,3 +2087,9 @@ a.btn:focus{
 		padding:250px 0 0;
 	}
 }
+
+@media (max-width:320px) {
+	.map {
+		display: block;
+		margin: 0 auto;
+	}
