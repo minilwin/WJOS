@@ -767,7 +767,7 @@ hr.bold {
 	background:#fff;
 	position:relative;
 	margin:0;
-	padding:140px 0 60px;
+	padding:200px 0 60px;
 }
 
 
@@ -2088,8 +2088,22 @@ a.btn:focus{
 	}
 }
 
-@media (max-width:555px) {
-	.map {
-		display: block;
-		margin: 0 auto;
-	}
+.tele:link {
+	color: #fff;
+	text-decoration: none;
+}
+
+.tele:hover {
+	color: #ffffff;
+	text-decoration:underline;
+}
+
+.tele:active {
+	color: #ffffff6e;
+	text-decoration:underline;
+}
+
+.tele:visited {
+	color: #ffffff46;
+	text-decoration:underline;
+}
