@@ -2088,7 +2088,7 @@ a.btn:focus{
 	}
 }
 
-@media (max-width:320px) {
+@media (max-width:555px) {
 	.map {
 		display: block;
 		margin: 0 auto;
