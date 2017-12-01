@@ -2107,3 +2107,20 @@ a.btn:focus{
 	color: #ffffff46;
 	text-decoration:underline;
 }
+.contact:link {
+	text-decoration: none;
+}
+.contact:hover {
+	color: #3156ce;
+	text-decoration:underline;
+}
+
+.contact:active {
+	color: #3156ce;
+	text-decoration:underline;
+}
+}
+.contact:visited {
+	color: #660099;
+	text-decoration: none;
+}
